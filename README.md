@@ -31,8 +31,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SRINIDHISENTHILNATHAN/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/121373170/586b576c-4e95-4339-bdc2-75ea42554f9d)
+
+### Name:SRINIDHI SENTHIL
+### Register Number:212222230148
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
